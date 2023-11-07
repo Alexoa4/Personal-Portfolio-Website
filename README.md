@@ -10,7 +10,7 @@ To Build an application that is functionally similar to https://personal-portfol
 
 - <b>HTML and CSS</b> 
   
-<h2>User Story:</h2> <br>
+<h2>User Stories:</h2> <br>
 Your portfolio should have a welcome section with an id of welcome-section <br>
 The welcome section should have an h1 element that contains text <br>
 Your portfolio should have a projects section with an id of projects <br>
